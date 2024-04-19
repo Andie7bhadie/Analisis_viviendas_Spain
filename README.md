@@ -7,7 +7,8 @@
 <h2>¿Que vamos a analizar? 🧪</h2>
 
 Vamos a representar visualmente, mediante gráficas los siguientes datos:
-<p>-Vamos a analizar las proporciones de tipos de vivienda en el año 2023 </p>
+<p>-Vamos a analizar las proporciones de vivienda usada y nueva en el año 2023 </p>
+<p>-Proporción de viviendas protegidas de libres en el año 2023 </p>
 <p>-La fluctuación de la cantidad de viviendas totales a lo largo de los años </p>
 <p>-La cantidad de tipos de vivienda en cada comunidad autónoma en el año 2023 </p>
 
