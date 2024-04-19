@@ -21,3 +21,9 @@ Vamos a representar visualmente, mediante gráficas los siguientes datos:
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
 
 </div>
+<h2>Gráficos realizados</h2>
+<div >
+    <img src="https://github.com/Andie7bhadie/Analisis_viviendas_Spain/blob/main/Graficas/grafico%20barras.PNG" alt="Grafico de barras" style="width: 300px; height: 250px;"> &nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/Andie7bhadie/Analisis_viviendas_Spain/blob/main/Graficas/grafico%20lineal.PNG" alt="Gráfico Lineal" style="width: 300px; height: 250px;"> &nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/Andie7bhadie/Analisis_viviendas_Spain/blob/main/Graficas/graficos%20pie.PNG" alt="Gráfico Tarta" style="width: 300px; height: 250px;"> &nbsp;&nbsp;&nbsp;
+   </div>
